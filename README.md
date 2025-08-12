@@ -1,11 +1,11 @@
 # RubberDucky-Reverse-Shell-Script-Working100---2024
 
 
-Hi im Daniel !
+Hi im djpoker !
 This is a Fresh Netcat base Revese shell script for USB RubberDucky
 
 
-CREATOR : Danial Javanrad 
+CREATOR : djpoker 
 Catergory : NETCAT REVERSE SHELL TO Windows CMD
 How to use : https://github.com/djpoker/RubberDucky-Reverse-Shell-Script-Working100---2024
 GITHUB : https://github.com/djpoker
