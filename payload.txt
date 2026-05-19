@@ -1,4 +1,3 @@
-REM CREATOR : Danial Javanrad 
 REM Catergory : NETCAT REVERSE SHELL TO Windows CMD
 REM How to use : https://github.com/djpoker/RubberDucky-Reverse-Shell-Script-Working100---2024
 REM GITHUB : https://github.com/djpoker
